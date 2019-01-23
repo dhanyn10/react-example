@@ -74,7 +74,7 @@ class Maincontent extends React.Component
                 <Row>
                     <Col md="12">
                         <Card>
-                            <CardHeader>Hasil Pencarian</CardHeader>
+                            <CardHeader>Search Result</CardHeader>
                             <CardBody>
 
                             <ListGroup>
