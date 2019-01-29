@@ -6,7 +6,7 @@ class Maincontent extends React.Component
     {
         return(
             <div>
-                <div></div>
+                <div>content here!</div>
             </div>
         );
     }
